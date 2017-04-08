@@ -1,5 +1,6 @@
 
 # Created by https://www.gitignore.io/api/vim,python,django,sublimetext
+db.sqlite3
 
 ### Django ###
 *.log
